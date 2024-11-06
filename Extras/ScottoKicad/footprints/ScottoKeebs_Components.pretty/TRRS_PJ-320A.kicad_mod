@@ -64,7 +64,7 @@
 	(attr through_hole)
 	(fp_line
 		(start -3.05 0)
-		(end -3.05 12.1)
+		(end -3.05 10.3)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -114,6 +114,36 @@
 	)
 	(fp_line
 		(start 3.05 0)
+		(end 3.05 2.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9f0c7756-a960-4974-8808-e6984b6edbbf")
+	)
+	(fp_line
+		(start 3.05 4.2)
+		(end 3.05 5.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "449fec93-4b78-4e33-b199-b6eb6b728023")
+	)
+	(fp_line
+		(start 3.05 9.2)
+		(end 3.05 7.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "548e6031-c557-4da9-95d2-844a43981958")
+	)
+	(fp_line
+		(start 3.05 11.2)
 		(end 3.05 12.1)
 		(stroke
 			(width 0.15)
@@ -124,7 +154,7 @@
 	)
 	(fp_line
 		(start 3.05 12.1)
-		(end -3.05 12.1)
+		(end -1.4 12.1)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -196,6 +226,18 @@
 		(drill oval 0.9 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(clearance 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "77e6aff4-7c9a-4b2b-ab67-d7fd0045f19b")
 	)
 	(pad "2" thru_hole oval
@@ -204,6 +246,18 @@
 		(drill oval 0.9 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(clearance 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "e617b303-b849-4e21-9222-111836d9830f")
 	)
 	(pad "3" thru_hole oval
@@ -212,6 +266,18 @@
 		(drill oval 0.9 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(clearance 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "10e46de7-a2ba-431d-ba58-eb0449e79436")
 	)
 	(pad "4" thru_hole oval
@@ -220,6 +286,18 @@
 		(drill oval 0.9 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(clearance 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "d964d0fd-e6dc-42da-bde6-9259ffc67798")
 	)
 	(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Components.3dshapes/TRRS_PJ-320A.step"

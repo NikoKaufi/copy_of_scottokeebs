@@ -6,7 +6,7 @@
 	(descr "12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)")
 	(tags "switch toggle smd ")
 	(property "Reference" "REF**"
-		(at 0 4 0)
+		(at 0.4 3.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "57e0d499-ac71-4327-b606-020ab2bb8439")
@@ -21,6 +21,7 @@
 		(at 0 2.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "709a7ff6-beec-4931-899f-5a666e9ec532")
 		(effects
 			(font
@@ -38,6 +39,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -50,6 +52,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -62,6 +65,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -643,6 +647,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "7248492b-e45e-47e3-994c-c896336b9ecc")
 		(effects
 			(font

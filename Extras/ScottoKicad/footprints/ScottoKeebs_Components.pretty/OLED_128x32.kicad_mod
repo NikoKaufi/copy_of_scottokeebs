@@ -62,7 +62,7 @@
 			)
 		)
 	)
-	(attr through_hole exclude_from_pos_files)
+	(attr through_hole)
 	(fp_line
 		(start 0 0)
 		(end 0 12)
@@ -197,7 +197,7 @@
 	)
 	(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Components.3dshapes/OLED_128x32.step"
 		(offset
-			(xyz 19 -6 2.5)
+			(xyz 19 -6 7)
 		)
 		(scale
 			(xyz 1 1 1)

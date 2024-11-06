@@ -6,7 +6,7 @@
 	(descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 	(tags "LED RGB NeoPixel")
 	(property "Reference" "REF**"
-		(at 0 -3.5 0)
+		(at 0 0 0)
 		(layer "F.SilkS")
 		(uuid "29976fa0-918e-48c1-ba81-319324267df7")
 		(effects
@@ -19,6 +19,7 @@
 	(property "Value" "LED_WS2812B"
 		(at 0 4 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "11f34c85-b80f-46bd-b71d-beeef7ef25a2")
 		(effects
 			(font
@@ -209,6 +210,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "c5756b5f-7ccc-4d42-872b-98775daca562")
 		(effects
 			(font

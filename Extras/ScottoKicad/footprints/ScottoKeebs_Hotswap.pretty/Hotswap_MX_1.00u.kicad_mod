@@ -19,6 +19,7 @@
 	(property "Value" "Hotswap_MX_1.00u"
 		(at 0 8 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "91748cdc-0fe1-4a0d-804a-28d6105e5a3e")
 		(effects
 			(font
@@ -661,6 +662,17 @@
 		(size 2.55 2.5)
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(roundrect_rratio 0.1)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 0.6)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "d5889d79-68a2-4143-b1d8-398b60189300")
 	)
 	(pad "2" smd roundrect
@@ -668,6 +680,17 @@
 		(size 2.55 2.5)
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(roundrect_rratio 0.1)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 0.6)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "45d2ef4f-c143-4b4f-aefb-95895acf6e56")
 	)
 	(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Hotswap.3dshapes/Hotswap_MX.step"
@@ -706,6 +729,28 @@
 	(model "C:/Users/kaufmanj/x_my_KiCad/Keycap.step"
 		(offset
 			(xyz 0 0 9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "E:/KiCAD/x_my_KiCad/Keycap.step"
+		(offset
+			(xyz 0 0 9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+	(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_MX.3dshapes/MX_PCB.step"
+		(offset
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
