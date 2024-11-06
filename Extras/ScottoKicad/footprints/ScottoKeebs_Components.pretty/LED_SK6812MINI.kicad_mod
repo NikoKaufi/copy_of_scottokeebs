@@ -287,4 +287,15 @@
 			(xyz 90 0 180)
 		)
 	)
+	(model "${SCOTTOKEEBS}/3dmodels/ScottoKeebs_Components.3dshapes/LED_SK6812MINI.step"
+		(offset
+			(xyz 0 0 -1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
 )

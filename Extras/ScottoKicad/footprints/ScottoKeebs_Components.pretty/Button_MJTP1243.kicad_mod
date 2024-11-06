@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -324,6 +327,17 @@
 		(uuid "9bff696e-f4e2-4d30-9078-7d0e4fe03cce")
 	)
 	(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Components.3dshapes/Button_MJTP1243.step"
+		(offset
+			(xyz 3.25 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${SCOTTOKEEBS}/3dmodels/ScottoKeebs_Components.3dshapes/Button_MJTP1243.step"
 		(offset
 			(xyz 3.25 0 0)
 		)

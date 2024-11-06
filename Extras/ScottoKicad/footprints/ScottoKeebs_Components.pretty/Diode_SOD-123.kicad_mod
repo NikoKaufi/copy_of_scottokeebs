@@ -346,4 +346,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "${SCOTTOKEEBS}/3dmodels/ScottoKeebs_Components.3dshapes/Diode_SOD-123.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
