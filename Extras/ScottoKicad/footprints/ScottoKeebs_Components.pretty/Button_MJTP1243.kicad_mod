@@ -19,6 +19,7 @@
 	(property "Value" "Button_MJTP1243"
 		(at 4.4 3.7 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "5a601e4b-56c2-40d9-8b05-295fe984fd71")
 		(effects
 			(font

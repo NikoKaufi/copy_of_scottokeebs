@@ -17,6 +17,7 @@
 	(property "Value" "TRRS_PJ-320A"
 		(at 0 -5.6 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "df9ccced-768d-4251-8e69-b46ee90bc8b1")
 		(effects
 			(font
