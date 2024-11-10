@@ -9,6 +9,7 @@
 		(at 0.4 3.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "57e0d499-ac71-4327-b606-020ab2bb8439")
 		(effects
 			(font
@@ -675,6 +676,17 @@
 		(size 0.6 1.25)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "50ddc224-0167-41af-b7dd-2c8919e8889b")
 	)
 	(pad "2" smd roundrect
@@ -682,6 +694,17 @@
 		(size 0.6 1.25)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "13330f2f-2f1d-4cc3-b997-315b6647db40")
 	)
 	(pad "3" smd roundrect
@@ -689,6 +712,17 @@
 		(size 0.6 1.25)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.15)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curve_points 0)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
 		(uuid "d43f8a00-b3d9-4503-b62e-71d4f78ba6be")
 	)
 	(pad "MP" smd roundrect

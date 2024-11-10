@@ -6,6 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0 14.2 0)
 		(layer "Dwgs.User")
+		(hide yes)
 		(uuid "3c840f73-fcd0-4670-bab9-05abf711086e")
 		(effects
 			(font

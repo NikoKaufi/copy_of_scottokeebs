@@ -18,6 +18,7 @@
 	(property "Value" "OLED_128x32"
 		(at 5.75 5.75 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "cbeb31d6-268a-4601-8d7e-7f41a9026e9d")
 		(effects
 			(font
