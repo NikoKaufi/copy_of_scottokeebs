@@ -6,7 +6,7 @@
 	(descr "tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1")
 	(tags "PHAP3362A 6mm tact sw THT")
 	(property "Reference" "REF**"
-		(at 3.42 -2.7 0)
+		(at 3.556 0 0)
 		(layer "F.SilkS")
 		(uuid "d17f06b3-06cf-4b86-9576-eb75fb3cc3df")
 		(effects
@@ -301,8 +301,9 @@
 		(uuid "8a3fa572-d869-4bc0-89ce-c37ef2911a90")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 3 0 0)
+		(at 3 -2.921 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "e5706493-de05-4287-8700-e83ddb8dd1fb")
 		(effects
 			(font

@@ -614,6 +614,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "713296c7-2fd5-4d50-b871-bf8ef1a0cb77")
 		(effects
 			(font

@@ -166,7 +166,7 @@
 	)
 	(fp_text user "Sleeve"
 		(at 0.25 11.4 0)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "6eaee1ff-f724-47e7-b72f-8fd28baa6e43")
 		(effects
 			(font
@@ -177,7 +177,7 @@
 	)
 	(fp_text user "Ring2"
 		(at 0 3.25 0)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "701b662e-e203-49ee-8840-c71ff0ed0713")
 		(effects
 			(font
@@ -188,7 +188,7 @@
 	)
 	(fp_text user "Tip"
 		(at 0 10 0)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "c5f2a1b7-086e-438e-bbcb-eab15c7a8554")
 		(effects
 			(font
@@ -199,7 +199,7 @@
 	)
 	(fp_text user "Ring1"
 		(at 0 6.25 0)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "eb045083-a5e9-4324-9548-0d05ff914701")
 		(effects
 			(font
