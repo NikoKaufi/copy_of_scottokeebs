@@ -6,7 +6,7 @@
 	(descr "SOD-123")
 	(tags "SOD-123")
 	(property "Reference" "REF**"
-		(at 0 -2 0)
+		(at 0 -1.5 0)
 		(layer "F.SilkS")
 		(uuid "fbda2406-adbb-4ca8-8db6-5c8a9710cde9")
 		(effects
