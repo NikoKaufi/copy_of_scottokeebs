@@ -727,7 +727,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "C:/Users/kaufmanj/x_my_KiCad/Keycap.step"
+	(model "C:/Users/kaufmanj/x_my_KiCad/3D-Files/Keycap.step"
 		(offset
 			(xyz 0 0 9)
 		)
@@ -738,7 +738,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "E:/KiCAD/x_my_KiCad/Keycap.step"
+	(model "E:/KiCAD/x_my_KiCad/3D-Files/Keycap.step"
 		(offset
 			(xyz 0 0 9)
 		)
